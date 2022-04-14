@@ -1,0 +1,41 @@
+{
+  "name": "TechPass",
+  "description": "As more services go digital, the need for Identity and Access Management (IAM) solutions becomes more urgent and important to enforce strict privileged access to these digital services.",
+  "url": "/",
+  "documentations": [
+    {
+      "name": "TechPass Automation API",
+      "description": "Automation API specifications for TechPass Services",
+      "url": "/"
+    },
+    {
+      "name": "TechPass OTPaaS API",
+      "description": "OTPaaS API specifications for TechPass OTP Service",
+      "url": "/"
+    },
+    {
+      "name": "TechPass Tenant Guide",
+      "description": "Advanced User Guide for Tenant Administrators to manage SSO, IAM and OTPaaS",
+      "url": "/"
+    },
+    {
+      "name": "TechPass User Guide",
+      "description": "Single Sign On User Guide to Access Singapore Government Technology Stack (SGTS) Products",
+      "url": "/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Login to TechPass",
+      "url": "/"
+    },
+    {
+      "name": "Read our blog",
+      "url": "/"
+    },
+    {
+      "name": "Join us for a hackathon",
+      "url": "/"
+    }
+  ]
+}

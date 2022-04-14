@@ -1,0 +1,30 @@
+{
+  "name": "SHIP-HATS",
+  "description": "Standard description.",
+  "url": "/",
+  "documentations": [
+    {
+      "name": "SHIP-HATS User Guide",
+      "description": "User Guide and Documentation for SHIP-HATS",
+      "url": "/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Teleport",
+      "url": "/"
+    },
+    {
+      "name": "Gitlap (SHIP)",
+      "url": "/"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "/"
+    },
+    {
+      "name": "Grafana",
+      "url": "/"
+    }
+  ]
+}

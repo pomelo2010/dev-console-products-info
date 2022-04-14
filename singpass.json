@@ -1,0 +1,30 @@
+{
+  "name": "Singpass",
+  "description": "Standard description.",
+  "url": "/",
+  "documentations": [
+    {
+      "name": "Singpass User Guide",
+      "description": "User Guide and Documentation for Singpass",
+      "url": "/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Teleport",
+      "url": "/"
+    },
+    {
+      "name": "Gitlap (SHIP)",
+      "url": "/"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "/"
+    },
+    {
+      "name": "Grafana",
+      "url": "/"
+    }
+  ]
+}

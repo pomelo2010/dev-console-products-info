@@ -1,0 +1,30 @@
+{
+  "name": "GCC",
+  "description": "Standard description.",
+  "url": "/",
+  "documentations": [
+    {
+      "name": "GCC User Guide",
+      "description": "User Guide and Documentation for GCC",
+      "url": "/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Teleport",
+      "url": "/"
+    },
+    {
+      "name": "Gitlap (SHIP)",
+      "url": "/"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "/"
+    },
+    {
+      "name": "Grafana",
+      "url": "/"
+    }
+  ]
+}

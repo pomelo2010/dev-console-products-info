@@ -1,0 +1,30 @@
+{
+  "name": "Corppass",
+  "description": "Standard description.",
+  "url": "/",
+  "documentations": [
+    {
+      "name": "Corppass User Guide",
+      "description": "User Guide and Documentation for Corppass",
+      "url": "/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Teleport",
+      "url": "/"
+    },
+    {
+      "name": "Gitlap (SHIP)",
+      "url": "/"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "/"
+    },
+    {
+      "name": "Grafana",
+      "url": "/"
+    }
+  ]
+}

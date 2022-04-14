@@ -1,0 +1,30 @@
+{
+  "name": "Cloud File Transfer",
+  "description": "Standard description.",
+  "url": "/",
+  "documentations": [
+    {
+      "name": "Cloud File Transfer User Guide",
+      "description": "User Guide and Documentation for Cloud File Transfer",
+      "url": "/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Teleport",
+      "url": "/"
+    },
+    {
+      "name": "Gitlap (SHIP)",
+      "url": "/"
+    },
+    {
+      "name": "ArgoCD",
+      "url": "/"
+    },
+    {
+      "name": "Grafana",
+      "url": "/"
+    }
+  ]
+}
