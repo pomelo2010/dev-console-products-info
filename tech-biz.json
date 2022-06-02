@@ -1,30 +1,21 @@
 {
   "name": "TechBiz",
-  "description": "Standard description.",
+  "uniqueKey": "tech-biz",
+  "description": "TechBiz is a subscription & billing management tool that allows users to easily subscribe, manage and report their SGTS resources via a single platform.",
   "url": "/",
   "documentations": [
     {
-      "name": "TechBiz User Guide",
-      "description": "User Guide and Documentation for TechBiz",
-      "url": "/"
+      "name": "Getting Started with TechBiz",
+      "description": "Information to start using TechBiz to subscribe SGTS",
+      "url": "https://docs.developer.tech.gov.sg/docs/techbiz-documentation/#/"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Teleport",
-      "url": "/"
-    },
-    {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
-    },
-    {
-      "name": "ArgoCD",
-      "url": "/"
-    },
-    {
-      "name": "Grafana",
-      "url": "/"
+      "name": "Login to TechBiz Portal (only accessible via GSIB device)",
+      "url": "https://portal.techbiz.suite.gov.sg"
     }
+  ],
+  "resources": [
   ]
 }

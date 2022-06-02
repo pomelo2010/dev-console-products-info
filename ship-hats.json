@@ -1,30 +1,34 @@
 {
   "name": "SHIP-HATS",
-  "description": "Standard description.",
-  "url": "/",
+  "uniqueKey": "ship-hats",
+  "description": "SHIP (Secure Hybrid Integration Pipeline)-HATS (Hive Agile Testing Solutions) is a multi-tenanted SaaS for all applications that is classified as restricted and below. It provides security and governance guardrails that enables developers to plan, build, test and deploy code to production.",
+  "url": "https://www.developer.gov.sg/products/categories/devops/ship-hats/overview",
   "documentations": [
     {
-      "name": "SHIP-HATS User Guide",
-      "description": "User Guide and Documentation for SHIP-HATS",
-      "url": "/"
+      "name": "SHIP-HATS Technical Documentation",
+      "description": "Information on using SHIP-HATS",
+      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/"
+    },
+    {
+      "name": "SHIP-HATS Migration",
+      "description": "Information on migrating SHIP-HATS from version 1.0 to version 2.0",
+      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-migration"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Teleport",
-      "url": "/"
+      "name": "Login to SHIP-HATS (accessible via OpenVPN on Internet machine)",
+      "url": "https://www.ship.gov.sg/login"
+    }
+  ],
+  "resources": [
+    {
+      "name": "DevSecOps Playbook",
+      "url": "https://docs.developer.tech.gov.sg/docs/devsecops-playbook/#/"
     },
     {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
-    },
-    {
-      "name": "ArgoCD",
-      "url": "/"
-    },
-    {
-      "name": "Grafana",
-      "url": "/"
+      "name": "Support Request",
+      "url": "https://jira.ship.gov.sg/servicedesk/customer/portal/11/group/44"
     }
   ]
 }

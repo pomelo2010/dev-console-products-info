@@ -1,30 +1,28 @@
 {
   "name": "Corppass",
+  "uniqueKey": "corppass",
   "description": "Standard description.",
-  "url": "/",
+  "url": "https://www.developer.gov.sg/products/categories/digital-identity/corppass/overview.html",
   "documentations": [
     {
       "name": "Corppass User Guide",
-      "description": "User Guide and Documentation for Corppass",
-      "url": "/"
+      "url": "https://www.corppass.gov.sg/corppass/common/userguides"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Teleport",
-      "url": "/"
+      "name": "Login to Corppass",
+      "url": "https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Digital Services Available under Corppass",
+      "url": "https://www.corppass.gov.sg/help/CP_Digital_Service_List_and_Other_Info.pdf"
     },
     {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
-    },
-    {
-      "name": "ArgoCD",
-      "url": "/"
-    },
-    {
-      "name": "Grafana",
-      "url": "/"
+      "name": "Register for Corppass",
+      "url": "https://www.corppass.gov.sg/corppass/registration/uen/singpassauth"
     }
   ]
 }

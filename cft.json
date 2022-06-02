@@ -1,30 +1,13 @@
 {
-  "name": "Cloud File Transfer",
-  "description": "Standard description.",
-  "url": "/",
+  "name": "CFT",
+  "uniqueKey": "cft",
+  "description": "Cloud File Transfer (CFT) is a centralised, fully managed, API-driven file transfer service for the Singapore Government agencies. It enables public officers to automate file exchanges with the whole-of-government network, business partners and vendors across the Internet and Intranet.",
+  "url": "https://www.developer.gov.sg/products/categories/data-and-apis/cloud-file-transfer/overview.html",
   "documentations": [
     {
-      "name": "Cloud File Transfer User Guide",
-      "description": "User Guide and Documentation for Cloud File Transfer",
-      "url": "/"
-    }
-  ],
-  "utilities": [
-    {
-      "name": "Wassuppppp",
-      "url": "/"
-    },
-    {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
-    },
-    {
-      "name": "ArgoCD",
-      "url": "/"
-    },
-    {
-      "name": "Grafana",
-      "url": "/"
+      "name": "CFT REST API",
+      "description": "OpenAPI Specification for CFT REST APIs",
+      "url": "https://docs.developer.tech.gov.sg/docs/cft-rest-api-documentation/"
     }
   ]
 }

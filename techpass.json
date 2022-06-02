@@ -1,41 +1,40 @@
 {
   "name": "TechPass",
-  "description": "As more services go digital, the need for Identity and Access Management (IAM) solutions becomes more urgent and important to enforce strict privileged access to these digital services.",
-  "url": "/",
+  "uniqueKey": "techpass",
+  "description": "TechPass is an Identity & Access Management solution coupled with Single Sign-On, enabling users to access developer services securely and seamlessly.",
+  "url": "https://www.developer.gov.sg/products/categories/digital-identity/techpass/overview.html",
   "documentations": [
     {
       "name": "TechPass Automation API",
       "description": "Automation API specifications for TechPass Services",
-      "url": "/"
+      "url": "https://docs.developer.tech.gov.sg/docs/techpass-automation-api/"
     },
     {
       "name": "TechPass OTPaaS API",
       "description": "OTPaaS API specifications for TechPass OTP Service",
-      "url": "/"
+      "url": "https://docs.developer.tech.gov.sg/docs/techpass-otpaas-api/"
     },
     {
       "name": "TechPass Tenant Guide",
       "description": "Advanced User Guide for Tenant Administrators to manage SSO, IAM and OTPaaS",
-      "url": "/"
+      "url": "https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/"
     },
     {
       "name": "TechPass User Guide",
       "description": "Single Sign On User Guide to Access Singapore Government Technology Stack (SGTS) Products",
-      "url": "/"
+      "url": "https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Login to TechPass",
-      "url": "/"
-    },
+      "name": "Login to TechPass Portal (only accessible via GSIB device)",
+      "url": "https://portal.techpass.gov.sg"
+    }
+  ],
+  "resources": [
     {
-      "name": "Read our blog",
-      "url": "/"
-    },
-    {
-      "name": "Join us for a hackathon",
-      "url": "/"
+      "name": "SEED Onboarding Guide",
+      "url": "https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/"
     }
   ]
 }

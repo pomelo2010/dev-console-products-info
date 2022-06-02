@@ -1,30 +1,38 @@
 {
   "name": "GCC",
-  "description": "Standard description.",
-  "url": "/",
+  "uniqueKey": "gcc",
+  "description": "Government on Commercial Cloud (GCC) is a platform that provides government agencies with a consistent means to adopt cloud solutions offered by Commercial Cloud Service Providers. The redesigned GCC 2.0 features a \"light-touch\" approach that focuses on automation, cloud native solutions and strong identity and access management.",
+  "url": "https://www.developer.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html",
   "documentations": [
     {
-      "name": "GCC User Guide",
-      "description": "User Guide and Documentation for GCC",
-      "url": "/"
+      "name": "GCC Primer",
+      "description": "Introduction to GCC and how to get started",
+      "url": "https://docs.developer.tech.gov.sg/docs/gcc-primer/#/"
+    },
+    {
+      "name": "GCC Version 2 User Documentation",
+      "description": "Overview of GCC 2.0, key changes and includes detailed instructions for using CMP to centrally manage tenant and cloud accounts",
+      "url": "https://docs.developer.tech.gov.sg/docs/gcc-version-2-user-documentation/#/"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Teleport",
-      "url": "/"
-    },
-    {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
-    },
-    {
-      "name": "ArgoCD",
-      "url": "/"
-    },
-    {
-      "name": "Grafana",
-      "url": "/"
+      "name": "Login to Cloud Management Portal (only accessible via GSIB and GMD devices)",
+      "url": "https://cmp.gcc.gov.sg"
     }
-  ]
+  ],
+  "resources": [
+    {
+      "name": "GCC 2.0 Workshops",
+      "url": "https://docs.developer.tech.gov.sg/docs/gcc-20-workshops/#/"
+    },
+    {
+      "name": "GCC 2.0 Tech Talks",
+      "url": "https://docs.developer.tech.gov.sg/docs/gcc-2-tech-talks/#/"
+    },
+    {
+      "name": "Overview of GCC Version 2",
+      "url": "https://docs.developer.tech.gov.sg/docs?product=Government%20Commercial%20Cloud%20(GCC)"
+    }
+]
 }

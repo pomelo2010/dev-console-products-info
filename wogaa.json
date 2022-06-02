@@ -1,30 +1,28 @@
 {
-  "name": "Wogaa",
-  "description": "Standard description.",
-  "url": "/",
+  "name": "WOGAA",
+  "uniqueKey": "wogaa",
+  "description": "Whole-of-Government Application Analytics (WOGAA) monitors the performance of government websites and digital services in real-time in a convenient and user-friendly manner. It presents key information and recommendations to improve site performance as well as benchmarks against whole-of-government averages in a single dashboard.",
+  "url": "https://www.developer.gov.sg/products/categories/analytics/wogaa/overview.html",
   "documentations": [
     {
-      "name": "Wogaa User Guide",
-      "description": "User Guide and Documentation for Wogaa",
-      "url": "/"
+      "name": "Getting Started on WOGAA",
+      "url": "https://docs.wogaa.sg/"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Teleport",
-      "url": "/"
+      "name": "Login to WOGAA",
+      "url": "https://wogaa.sg/login"
+    }
+  ],
+  "resources": [
+    {
+      "name": "WOGAA Frequently Asked Questions",
+      "url": "https://wogaa.sg/home/index.html#/faq"
     },
     {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
-    },
-    {
-      "name": "ArgoCD",
-      "url": "/"
-    },
-    {
-      "name": "Grafana",
-      "url": "/"
+      "name": "Sign up for WOGAA",
+      "url": "https://wogaa.sg/signup"
     }
   ]
 }

@@ -1,30 +1,37 @@
 {
-  "name": "Apex",
-  "description": "Annnndd now i'm back hahahah",
-  "url": "/",
+  "name": "APEX",
+  "uniqueKey": "apex",
+  "description": "API Exchange (APEX) is a centralised, self-service whole-of-government API platform. It enables convenient and secure data sharing through the use of APIs which contain coded rules that manages who has access to the data and how data gets transferred.",
+  "url": "https://www.developer.gov.sg/products/categories/data-and-apis/apex/overview.html",
   "documentations": [
     {
-      "name": "Apex User Guide",
-      "description": "User Guide and Documentation for Apex (CStack)",
-      "url": "/"
+      "name": "APEX Quickstart (login required)",
+      "description": "Information on providing and consuming APIs on APEX",
+      "url": "https://docs.developer.tech.gov.sg/docs/apex-quickstart"
     }
   ],
-  "utilities": [
+  "apps": [
     {
-      "name": "Teleport",
-      "url": "/"
+      "name": "Login to APEX (only accessible via GSIB device)",
+      "url": "https://portal.apex.gov.sg/signin"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Sign Up for APEX (only accessible via GSIB device)",
+      "url": "https://portal.apex.gov.sg/register"
     },
     {
-      "name": "Gitlap (SHIP)",
-      "url": "/"
+      "name": "APEX Frequently Asked Questions (login required)",
+      "url": "https://docs.developer.tech.gov.sg/docs/frequently-asked-questions-faqs"
     },
     {
-      "name": "ArgoCD",
-      "url": "/"
+      "name": "APEX Privacy Statement (login required)",
+      "url": "https://docs.developer.tech.gov.sg/docs/apex-privacy-statement"
     },
     {
-      "name": "Grafana",
-      "url": "/"
+      "name": "APEX Terms of Use (login required)",
+      "url": "https://docs.developer.tech.gov.sg/docs/apex-terms-of-use"
     }
   ]
 }

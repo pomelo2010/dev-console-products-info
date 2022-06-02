@@ -1,5 +1,6 @@
 {
   "name": "Singpass",
+  "uniqueKey": "singpass",
   "description": "Standard description.",
   "url": "/",
   "documentations": [
@@ -9,7 +10,7 @@
       "url": "/"
     }
   ],
-  "utilities": [
+  "resources": [
     {
       "name": "Teleport",
       "url": "/"
