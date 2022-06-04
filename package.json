@@ -1,0 +1,23 @@
+{
+  "name": "dev-console-products-info",
+  "version": "1.0.0",
+  "description": "A place for product teams to configure details to be shown on the dev console widget.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wds --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GovTechSG/dev-console-products-info.git"
+  },
+  "author": "GovTech - Dev Portal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GovTechSG/dev-console-products-info/issues"
+  },
+  "homepage": "https://github.com/GovTechSG/dev-console-products-info#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.31"
+  }
+}
