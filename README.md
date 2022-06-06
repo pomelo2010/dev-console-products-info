@@ -18,7 +18,7 @@ Widget then consumes these updated details through REST API calls.
 1. Create a branch out of main.
 2. Find your project's json files in `products-details/` folder.
 3. Edit accordingly (refer to the `Recommended Practices for Editing Product Details` portion below).
-4. Create a PR against master branch and see preview of your changes with the amplify link provided in the PR itself.
+4. Create a PR against main branch and see preview of your changes with the amplify link provided in the PR itself.
 5. Code Owners will be notified of PR and if all's well, merge to main.
 6. Ensure changes are reflected on the widget. It may take awhile for changes to take place.
 
