@@ -26,6 +26,8 @@ For e.g if John is owner of `/products-details/test.json` then if a PR contains 
 
 Details of code owners can be viewed in `CODEOWNERS` file. By default, if any changes to files outside of `/products-details/` folder were to happen, Dev Portal team will be the reviewer.
 
+To learn more on how `CODEOWNERS` in github work check out [this link](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
+
 ## Recommended Practices for Editing Product Details
 
 Coming soon.
