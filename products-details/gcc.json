@@ -1,7 +1,7 @@
 {
   "name": "GCC",
   "uniqueKey": "gcc",
-  "description": "hello Government on Commercial Cloud (GCC) is a platform that provides government agencies with a consistent means to adopt cloud solutions offered by Commercial Cloud Service Providers. The redesigned GCC 2.0 features a \"light-touch\" approach that focuses on automation, cloud native solutions and strong identity and access management.",
+  "description": "Government on Commercial Cloud (GCC) is a platform that provides government agencies with a consistent means to adopt cloud solutions offered by Commercial Cloud Service Providers. The redesigned GCC 2.0 features a \"light-touch\" approach that focuses on automation, cloud native solutions and strong identity and access management.",
   "url": "https://www.developer.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html",
   "documentations": [
     {

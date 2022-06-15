@@ -1,7 +1,7 @@
 {
   "name": "TechPass",
   "uniqueKey": "techpass",
-  "description": "hello TechPass is an Identity & Access Management solution coupled with Single Sign-On, enabling users to access developer services securely and seamlessly.",
+  "description": "TechPass is an Identity & Access Management solution coupled with Single Sign-On, enabling users to access developer services securely and seamlessly.",
   "url": "https://www.developer.gov.sg/products/categories/digital-identity/techpass/overview.html",
   "documentations": [
     {

@@ -1,7 +1,7 @@
 {
   "name": "SHIP-HATS",
   "uniqueKey": "ship-hats",
-  "description": "hello SHIP (Secure Hybrid Integration Pipeline)-HATS (Hive Agile Testing Solutions) is a multi-tenanted SaaS for all applications that is classified as restricted and below. It provides security and governance guardrails that enables developers to plan, build, test and deploy code to production.",
+  "description": "SHIP (Secure Hybrid Integration Pipeline)-HATS (Hive Agile Testing Solutions) is a multi-tenanted SaaS for all applications that is classified as restricted and below. It provides security and governance guardrails that enables developers to plan, build, test and deploy code to production.",
   "url": "https://www.developer.gov.sg/products/categories/devops/ship-hats/overview",
   "documentations": [
     {

@@ -1,7 +1,7 @@
 {
   "name": "WOGAA",
   "uniqueKey": "wogaa",
-  "description": "hello Whole-of-Government Application Analytics (WOGAA) monitors the performance of government websites and digital services in real-time in a convenient and user-friendly manner. It presents key information and recommendations to improve site performance as well as benchmarks against whole-of-government averages in a single dashboard.",
+  "description": "Whole-of-Government Application Analytics (WOGAA) monitors the performance of government websites and digital services in real-time in a convenient and user-friendly manner. It presents key information and recommendations to improve site performance as well as benchmarks against whole-of-government averages in a single dashboard.",
   "url": "https://www.developer.gov.sg/products/categories/analytics/wogaa/overview.html",
   "documentations": [
     {

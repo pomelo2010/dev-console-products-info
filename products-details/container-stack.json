@@ -1,7 +1,7 @@
 {
   "name": "CStack",
   "uniqueKey": "container-stack",
-  "description": "Container Stack (CStack) hello is a cloud-based container development and hosting platform that allows agencies to jumpstart their DevSecOps practices and accelerate their journey into agile application development. As a fully managed developer platform that provides an end-to-end development experience for application teams, CStack enables engineers to build and deploy containers onto a shared platform with built-in security and compliance. Our team is responsible for the platform operations while agencies can focus on developing applications and save on the overheads of maintaining infrastructure.",
+  "description": "Container Stack (CStack) is a cloud-based container development and hosting platform that allows agencies to jumpstart their DevSecOps practices and accelerate their journey into agile application development. As a fully managed developer platform that provides an end-to-end development experience for application teams, CStack enables engineers to build and deploy containers onto a shared platform with built-in security and compliance. Our team is responsible for the platform operations while agencies can focus on developing applications and save on the overheads of maintaining infrastructure.",
   "url": "https://www.developer.gov.sg/products/categories/devops/container-stack/overview.html",
   "documentations": [
     {

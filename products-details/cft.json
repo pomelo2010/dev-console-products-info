@@ -1,7 +1,7 @@
 {
   "name": "CFT",
   "uniqueKey": "cft",
-  "description": "Cloud File Transfer (CFT) hello is a centralised, fully managed, API-driven file transfer service for the Singapore Government agencies. It enables public officers to automate file exchanges with the whole-of-government network, business partners and vendors across the Internet and Intranet.",
+  "description": "Cloud File Transfer (CFT) is a centralised, fully managed, API-driven file transfer service for the Singapore Government agencies. It enables public officers to automate file exchanges with the whole-of-government network, business partners and vendors across the Internet and Intranet.",
   "url": "https://www.developer.gov.sg/products/categories/data-and-apis/cloud-file-transfer/overview.html",
   "documentations": [
     {
