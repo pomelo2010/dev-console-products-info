@@ -44,6 +44,40 @@ The widget details has a few portion([See live here](https://docs.developer.tech
 
 ![img](assets/details-sections.png)
 
+```json
+{
+    "name": "ADEX",
+    "uniqueKey": "adex",
+    "description": "Asynchronous Data Exchange (ADEX) is a centralised, self-service whole-of-government data exchange and event streaming platform with real-time, asynchronous, fire-and-forget data transfer that enables agencies to make better, real-time decisions based on up-to-date information.",
+    "url": "https://www.developer.gov.sg/products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/overview.html",
+    "documentations": [
+      {
+        "name": "ADEX User Guide",
+        "description": "An onboarding and user guide to start using ADEX on the Internet",
+        "url": "https://docs.developer.tech.gov.sg/docs/adex-user-guide"
+      },
+      {
+        "name": "ADEX User Guide for Intranet",
+        "description": "Information on using ADEX on the Intranet",
+        "url": "https://docs.developer.tech.gov.sg/docs/adex-user-guide-for-intranet"
+      }
+    ],
+    "apps": [
+      {
+        "name": "Login to ADEX",
+        "url": "https://adex.gov.sg/auth/login;app=sdx"
+      }
+    ],
+    "resources": [
+        {
+            "name": "Sign up for ADEX",
+            "url": "https://adex.gov.sg/auth/signup;app=sdx/create-account"
+        }
+    ]
+}
+```
+**NOTE : Unique key will not be displayed on the details portion.** 
+
 ### Name and Description
 
 Name and description of the product and a link to product's details page in developer portal.

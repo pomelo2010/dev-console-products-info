@@ -1,0 +1,30 @@
+{
+    "name": "Example Name",
+    "uniqueKey": "example-name",
+    "description": "Example description.",
+    "url": "https://www.developer.gov.sg/products/categories/data-and-apis/example/overview.html",
+    "documentations": [
+      {
+        "name": "ExampleApp Quickstart (login required)",
+        "description": "Information on providing and consuming APIs on example",
+        "url": "https://docs.developer.tech.gov.sg/docs/example-quickstart"
+      }
+    ],
+    "apps": [
+      {
+        "name": "Login to ExampleApp (only accessible via GSIB device)",
+        "url": "https://portal.example.gov.sg/signin"
+      }
+    ],
+    "resources": [
+      {
+        "name": "Sign Up for ExampleApp (only accessible via GSIB device)",
+        "url": "https://portal.example.gov.sg/register"
+      },
+      {
+        "name": "ExampleApp Frequently Asked Questions (login required)",
+        "url": "https://docs.developer.tech.gov.sg/docs/frequently-asked-questions-faqs"
+      }
+    ]
+  }
+  
