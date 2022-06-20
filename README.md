@@ -4,7 +4,7 @@ A place for product teams to configure details to be shown on the dev console wi
 ## Prerequisites
 The only prerequisite is that you must have been onboarded by the dev portal team. During onboarding, we will just need these items:
 - [ ] svg file of your project's logo icon
-- [ ] github usernames of your team or members that you want to assign as code reviewers. Check `Code Owners` portion below for more info on this.
+- [ ] github usernames of your team or members that you want to assign as code reviewers. Code owners should have been added here https://confluence.ship.gov.sg/display/DEV/Dev+Console+Widget+Links. Check `Code Owners` portion below for more info on this.
 
 If you have not been onboarded, please reach out to the dev portal team.
 ## How It Works
@@ -15,7 +15,8 @@ Widget then consumes these updated details through REST API calls.
 
 It's good to know that `main` branch in this repo is updating the details in console's `prod` environment. There are also `stg` and `dev` branches that will deploy changes to console widget's own `stg` and `dev` environments. If you'd like to see your changes in dev console widget's `stg` and `dev`, you can merge to these branches. But generally, a pull request to `main` branch already creates a preview via AWS Amplify and it should be enough.
 
-**NOTE : This repository will be the single source of truth for product details displayed on widget.**
+> **NOTE** <br/>
+> This repository will be the single source of truth for product details displayed on widget.
 
 ## Usage Guide
 
@@ -76,7 +77,8 @@ The widget details has a few portion([See live here](https://docs.developer.tech
     ]
 }
 ```
-**NOTE : Unique key will not be displayed on the details portion.** 
+> **NOTE** <br/>
+> Unique key will not be displayed on the details portion.
 
 ### Name and Description
 
@@ -86,6 +88,10 @@ Name and description of the product and a link to product's details page in deve
 
 Any technical documentations that you would like users to have access to accompanied by a short description.
 
+> **NOTE** <br/>
+> a) Tech documents will need to be published on the Singapore Government Developer Portal (Dev Portal). <br/>
+> b) The description provided for each document will need to be the same as what is provided on the Dev Portal.
+
 ### Apps
 
 Links to applications that you would like viewers to have access to through this widget. It will only bring user to the page provided, it will not do any other actions such as actual login.
@@ -94,5 +100,7 @@ Links to applications that you would like viewers to have access to through this
 
 Other misc resources that you think is important that the user should know.
 
-**Note: Height of the details portion is fixed, so if there are too many links, it will just overflow and may not look as good. Do try to curate and limit the number of links you display for each portion.**
+> **NOTE** <br/>
+> Height of the details portion is fixed, so if there are too many links, it will just overflow and may not look as good. Do try to curate and limit the number of links you display for each portion.
+
 
