@@ -5,26 +5,26 @@
 # Only code owners and not global owner will be requested.
 /products-details/apex.json @candyyap-gvt
 
-/products-details/doc-portal.json @GovTechSG/developer-gov-sg
+/products-details/async-data-exchange.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/cft.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/container-stack.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/corppass.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/doc-portal.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/gcc.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/sgds.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/ship-hats.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/singpass.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/tech-biz.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/techpass.json @candyyap-gvt
 
-/products-details/apex.json @candyyap-gvt
+/products-details/wogaa.json @candyyap-gvt
