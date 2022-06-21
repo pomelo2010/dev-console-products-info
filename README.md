@@ -39,6 +39,9 @@ Details of code owners can be viewed in `CODEOWNERS` file. By default, if any ch
 
 To learn more on how `CODEOWNERS` in github work check out [this link](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
+> **NOTE** <br/>
+> Code owners are file name specific so if a file's name is changed, do rmbr to make a change in CODEOWNERS file in the PR as well.
+
 ## Recommended Practices for Editing Product Details
 
 The widget details has a few portion([See live here](https://docs.developer.tech.gov.sg/)): 
