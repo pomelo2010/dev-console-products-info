@@ -5,7 +5,7 @@
 # Only code owners and not global owner will be requested.
 /products-details/apex.json @GovTechSG/developer-gov-sg
 
-/products-details/async-data-exchange.json @GovTechSG/developer-gov-sg @lohkianchai @sabrina-ng @venkanavaneetham
+/products-details/async-data-exchange.json @lohkianchai @sabrina-ng @venkanavaneetham
 
 /products-details/cft.json @GovTechSG/developer-gov-sg
 
