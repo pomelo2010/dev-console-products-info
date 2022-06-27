@@ -6,7 +6,7 @@ The only prerequisite is that you must have been onboarded by the dev portal tea
 - [ ] svg file of your project's logo icon
 - [ ] github usernames of your team or members that you want to assign as code reviewers. Code owners should have been added here https://confluence.ship.gov.sg/display/DEV/Dev+Console+Widget+Links. Check `Code Owners` portion below for more info on this.
 
-If you have not been onboarded, please reach out to the dev portal team.
+**If your product has not been onboarded, please fill up this [form](https://form.gov.sg/62b956943695530011a072d0).**
 ## How It Works
 
 Changes to the `main` branch in this repo will throw a webhook to api gateway in AWS, which will then invoke lambda function to update s3 bucket holding all of the latest product details json files.
@@ -104,6 +104,6 @@ Links to applications that you would like viewers to have access to through this
 Other misc resources that you think is important that the user should know.
 
 > **NOTE** <br/>
-> Height of the details portion is fixed, so if there are too many links, it will just overflow and may not look as good. Do try to curate and limit the number of links you display for each portion.
+> Height of the details portion is fixed, so if there are too many links, it will overflow and may not look as good. Do try to curate and limit the number of links you display for each portion.
 
 
