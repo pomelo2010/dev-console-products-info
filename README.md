@@ -15,7 +15,6 @@ Widget then consumes these updated details through REST API calls.
 
 It's good to know that `main` branch in this repo is updating the details in console's `prod` environment. There are also `stg` and `dev` branches that will deploy changes to console widget's own `stg` and `dev` environments. If you'd like to see your changes in dev console widget's `stg` and `dev`, you can merge to these branches. But generally, a pull request to `main` branch already creates a preview via AWS Amplify and it should be enough.
 
-> **NOTE** <br/>
 > This repository will be the single source of truth for product details displayed on widget.
 
 ## Usage Guide
@@ -27,6 +26,7 @@ It's good to know that `main` branch in this repo is updating the details in con
 5. Code Owners will be notified of PR and if all's well, merge to main.
 6. Ensure changes are reflected on the widget. It may take awhile for changes to take place.
 
+> To check whether the changes were made successfully, do consider joining the slack channel https://gahmen.slack.com/archives/C03KJCGT6E5.
 
 
 ## Code Owners
@@ -39,7 +39,6 @@ Details of code owners can be viewed in `CODEOWNERS` file. By default, if any ch
 
 To learn more on how `CODEOWNERS` in github work check out [this link](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
-> **NOTE** <br/>
 > Code owners are file name specific so if a file's name is changed, do rmbr to make a change in CODEOWNERS file in the PR as well.
 
 ## Recommended Practices for Editing Product Details
@@ -80,7 +79,6 @@ The widget details has a few portion([See live here](https://docs.developer.tech
     ]
 }
 ```
-> **NOTE** <br/>
 > Unique key will not be displayed on the details portion.
 
 ### Name and Description
@@ -91,7 +89,7 @@ Name and description of the product and a link to product's details page in deve
 
 Any technical documentations that you would like users to have access to accompanied by a short description.
 
-> **NOTE** <br/>
+
 > a) Tech documents will need to be published on the Singapore Government Developer Portal (Dev Portal). <br/>
 > b) The description provided for each document will need to be the same as what is provided on the Dev Portal.
 
@@ -103,7 +101,6 @@ Links to applications that you would like viewers to have access to through this
 
 Other misc resources that you think is important that the user should know.
 
-> **NOTE** <br/>
 > Height of the details portion is fixed, so if there are too many links, it will overflow and may not look as good. Do try to curate and limit the number of links you display for each portion.
 
 
