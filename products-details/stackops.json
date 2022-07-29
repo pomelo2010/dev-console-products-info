@@ -1,5 +1,5 @@
 {
-    "name": "StackOps",
+    "name": "StackOps Temp",
     "uniqueKey": "stackops",
     "description": "StackOps is a monitoring toolchain that focuses on the most important and critical user actions of your service. It features automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors.",
     "url": "https://www.developer.tech.gov.sg/products/categories/devops/stackops/overview.html",
