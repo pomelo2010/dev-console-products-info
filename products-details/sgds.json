@@ -7,22 +7,12 @@
     {
       "name": "Getting Started with SGDS",
       "description": "Information to start developing digital services, product and portal with SGDS",
-      "url": "https://www.designsystem.tech.gov.sg/docs/getting-started/"
-    },
-    {
-      "name": "SGDS Guides",
-      "description": "Additional guides for developers, designers and content writers",
-      "url": "https://www.designsystem.tech.gov.sg/guides/"
-    },      
+      "url": "https://www.designsystem.tech.gov.sg/get-started/"
+    },   
     {
       "name": "SGDS Templates",
       "description": "Basic templates that you can use to start building your digital service, product or portal",
       "url": "https://www.designsystem.tech.gov.sg/templates/"
-    },
-    {
-      "name": "SGDS Theme",
-      "description": "Samples of what is available on SGDS",
-      "url": "https://customiser.designsystem.gov.sg/#!"
     }
   ],
   "resources": [
@@ -33,6 +23,11 @@
     {
       "name": "Source Code in GitHub",
       "url": "https://github.com/govtechsg/sgds"
+      
+    },
+    {
+      "name": "SGDS React Storybook",
+      "url": "https://react.designsystem.tech.gov.sg"
     },
     {
       "name": "Join SGDS Telegram Channel",
