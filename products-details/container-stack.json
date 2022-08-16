@@ -7,7 +7,7 @@
     {
       "name": "Getting Started with CStack",
       "description": "Step-by-step guide to deploy HelloWorld",
-      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-user-guide/#/getting-started/quick-start/"
+      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-getting-started/"
     },
     {
       "name": "CStack User Guide",
@@ -44,7 +44,7 @@
   "resources": [
     {
       "name": "Templates and Samples",
-      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-user-guide/#/getting-started/templates-samples/"
+      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-getting-started/templates-samples"
     },
     {
       "name": "CStack Sample Code Repository",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Case Studies - Launching the Thank You 'Cher portal on CStack",
-      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-user-guide/#/information/case-studies/"
+      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-overview/case-studies"
     }
   ]
 }
