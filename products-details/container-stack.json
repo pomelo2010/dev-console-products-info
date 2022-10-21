@@ -7,7 +7,7 @@
     {
       "name": "Getting Started with CStack",
       "description": "Step-by-step guide to deploy HelloWorld",
-      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-getting-started/"
+      "url": "https://docs.developer.tech.gov.sg/docs/container-stack-getting-started/objectives"
     },
     {
       "name": "CStack User Guide",
@@ -17,28 +17,24 @@
   ],
   "apps": [
     {
-      "name": "Code - Repository & CI",
+      "name": "GitLab - Repository & CI",
       "url": "https://gitlab-in.ship.gov.sg/"
     },
     {
-      "name": "Sync (Development)",
+      "name": "Argo CD (Development)",
       "url": "https://argocd.dev.e01.container.stack.gov.sg/"
     },
     {
-      "name": "Sync (Staging)",
+      "name": "Argo CD (Staging)",
       "url": "https://argocd.stg.e01.container.stack.gov.sg/"
     },
     {
-      "name": "Sync (Production)",
+      "name": "Argo CD (Production)",
       "url": "https://argocd.e01.container.stack.gov.sg/"
     },
     {
-      "name": "Dashboard & Logs",
+      "name": "Grafana - Metrics & Logs",
       "url": "https://grafana.ops.container.stack.gov.sg/"
-    },
-    {
-      "name": "Terminal",
-      "url": "https://cmd.container.stack.gov.sg/"
     }
   ],
   "resources": [
