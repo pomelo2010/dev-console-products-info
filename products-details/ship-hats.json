@@ -5,14 +5,24 @@
   "url": "https://www.developer.gov.sg/products/categories/devops/ship-hats/overview",
   "documentations": [
     {
-      "name": "SHIP-HATS Technical Documentation",
-      "description": "Information on using SHIP-HATS",
-      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-documentation/#/"
+      "name": "Getting Started",
+      "description": "Learn about SHIP-HATS, onboard to SHIP-HATS, set yourself as a Subscription Administrator",
+      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/"
+    },
+    {
+      "name": "Portal",
+      "description": "Learn how to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users",
+      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-portal/ship-hats-portal-overview"
+    },
+    {
+      "name": "Tools",
+      "description": "Learn about tools integrated with SHIP-HATS",
+      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-tools/"
     },
     {
       "name": "SHIP-HATS Migration",
       "description": "Information on migrating SHIP-HATS from version 1.0 to version 2.0",
-      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-migration"
+      "url": "https://docs.developer.tech.gov.sg/docs/ship-hats-migration/"
     }
   ],
   "apps": [
