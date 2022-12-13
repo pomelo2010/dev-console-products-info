@@ -1,13 +1,30 @@
 {
-    "name": "Personalise",
-    "uniqueKey": "percy",
-    "description": "Sample description",
-    "url": "",
-    "documentations": [
-    ],
-    "apps": [
-    ],
-    "resources": [
-    ]
-  }
-  
+  "name": "Personalise",
+  "uniqueKey": "percy",
+  "description": "Personalise (Percy) enables government agencies to serve personalised web content on their websites and through email campaigns to improve citizen experience.",
+  "url": "https://www.developer.tech.gov.sg/products/categories/analytics/personalise/overview.html",
+  "documentations": [
+    {
+      "name": "Email Personalisation User Guide",
+      "description":"Your guide to getting started with Personalise",
+      "url": "https://personalise.gov.sg/email-campaign-101"
+    },
+    {
+      "name": "Web Personalisation Documentation",
+      "description": "Information about personalising government agencies’ website experiences",
+      "url": "https://personalise.gov.sg/products/web/"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Login to Personalise",
+      "url": "https://dashboard.personalise.gov.sg/signin"
+    }
+  ],
+  "resources": [
+    {
+      "name": "FAQ",
+      "url": "https://personalise.gov.sg/faq/"
+    }
+  ]
+}
