@@ -43,8 +43,8 @@
       "url": "https://docs.developer.tech.gov.sg/docs/container-stack-getting-started/templates-samples"
     },
     {
-      "name": "CStack Sample Code Repository",
-      "url": "https://gitlab-in.ship.gov.sg/cstack-reference"
+      "name": "CStack Reference Repository",
+      "url": "https://sgts.gitlab-dedicated.com/wog/gvt/cstack/groups/references"
     },
     {
       "name": "Case Studies - Launching the Thank You 'Cher portal on CStack",
