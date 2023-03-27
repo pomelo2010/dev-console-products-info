@@ -1,13 +1,29 @@
 {
     "name": "CloudSCAPE",
     "uniqueKey": "cloudscape",
-    "description": "Example description",
-    "url": "/",
+    "description": "The Cloud Security and Compliance Automation Platform Ecosystem (CloudSCAPE) is a platform that helps agencies secure Government systems deployed on the Government on Commercial Cloud (GCC 2.0) by providing guidance to meet compliance requirements, as well as automated scans to monitor and send alerts when systems do not meet the security baseline.",
+    "url": "https://go.gov.sg/cloudscape",
     "documentations": [
+        {
+            "name": "CloudSCAPE User Guide",
+            "description": "User guide to get started with using CloudSCAPE",
+            "url": "https://docs.developer.tech.gov.sg/docs/cloudscape-user-guide/"
+        }
     ],
     "apps": [
+        {
+            "name": "Login to CloudSCAPE",
+            "url": "https://cloudscape.tech.gov.sg/"
+        }
     ],
     "resources": [
+        {
+            "name": "Secure Infrastructure-as-Code (SIaC)",
+            "url": "https://go.gov.sg/siac"
+        },
+        {
+            "name": "Security Suite for Engineering Endpoint Devices (SEED)",
+            "url": "https://go.gov.sg/seed-mdm"
+        }
     ]
-  }
-  
+}
