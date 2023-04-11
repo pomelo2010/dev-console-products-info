@@ -23,9 +23,16 @@
     ],
     "resources": [
         {
-            "name": "Sign up for ADEX",
-            "url": "https://adex.gov.sg/auth/signup;app=sdx/create-account"
+          "name": "Sign up for ADEX",
+          "url": "https://adex.gov.sg/auth/signup;app=sdx/create-account"
+        },
+        {
+          "name": "Support Request for agency",
+          "url": "https://gdsjira.ship.gov.sg/servicedesk/customer/portals"
+        },
+        {
+          "name": "Support Request for external",
+          "url": "https://go.gov.sg/adexsupport"
         }
     ]
   }
-  
