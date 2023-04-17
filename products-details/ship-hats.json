@@ -29,10 +29,6 @@
     {
       "name": "Login to SHIP-HATS (accessible on GSIB/GMD)",
       "url": "https://portal.ship.gov.sg"
-    },
-    {
-      "name": "Login to SHIP-HATS (accessible via OpenVPN on Internet machine)",
-      "url": "https://www.ship.gov.sg/login"
     }
   ],
   "resources": [
